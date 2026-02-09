@@ -1,0 +1,10 @@
+{
+  "name": "interactive-table2",
+  "version": "0.1.0",
+  "description": "Placeholder build tooling for the CSV → Interactive Table experience.",
+  "private": true,
+  "scripts": {
+    "build": "node ./scripts/placeholder-build.js"
+  },
+  "license": "MIT"
+}
