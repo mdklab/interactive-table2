@@ -30,3 +30,12 @@
 - Use role-prefixed comments, e.g., `TechLead:`.
 - CI must be green before merge.
 - No direct pushes to `main` (PRs only).
+
+## Current Delivery Stages (Open Issues)
+
+1. **#1 Document stack options for CSV → Interactive Table** — TechLead (architecture note)
+2. **#2 Kick off CSV → Interactive Table project** — TechLead/PM kickoff
+3. **#3 Set up Vite + React project scaffold** — Developer
+4. **#4 Implement CSV upload + PapaParse worker pipeline** — Developer
+5. **#5 Render table with TanStack Table (sorting + filtering UI)** — Developer + Designer
+6. **#6 Add virtualization + GitHub Pages deployment config** — Developer + DevOps
